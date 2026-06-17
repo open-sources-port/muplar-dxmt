@@ -10,6 +10,7 @@
 
 #include <iomanip>
 #include <mutex>
+#include <iomanip>
 #include <unordered_set>
 
 #include "com_guid.hpp"
